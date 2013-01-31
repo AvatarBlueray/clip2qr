@@ -1,4 +1,4 @@
-Easy way to transfer text to smartfone.
+Easy way to transfer text to smartfone.  http://www.youtube.com/watch?v=xKPGK0x2yj0&feature=youtu.be
 
 Select text.
 Copy to clipboard.
